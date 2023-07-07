@@ -1,0 +1,10 @@
+{
+	"name": "Demo Patient Name",
+	"sex": "M",
+	"age": 20,
+	"weight": 100,
+	"mobile": 111111111,
+	"address": "Demo Address",
+	"active": "true",
+	"date": "07-07-2023"
+}
